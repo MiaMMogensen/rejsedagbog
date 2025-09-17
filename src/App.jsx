@@ -1,11 +1,19 @@
 import Header from "./components/Header";
+import { useEffect, useState } from "react";
 import Entry from "./components/Entry";
-import entryData from "./data/rejser";
 
 export default function App() {
-  const entryElements = entryData.map((entry) => {
-    return <Entry key={entry.id} entry={entry} />;
-  });
+  const [entries, setEntries] = useState([]);
+
+  useEffect(() => {
+    fetch("/data/rejser.json")
+      .then((res) => res.json())
+      .then((data) => setEntries(data));
+  }, []);
+
+  const entryElements = entries.map((entry) => (
+    <Entry key={entry.id} entry={entry} />
+  ));
 
   return (
     <>

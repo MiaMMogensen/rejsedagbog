@@ -1,0 +1,50 @@
+[
+  {
+    "id": 1,
+    "img": {
+      "src": "/img/cypern.png",
+      "alt": "Billede af Cypern"
+    },
+    "title": "Aya Napa",
+    "country": "Cypern",
+    "googleMapsLink": "https://www.google.com/maps/place/Napa+Plaza+Hotel/@34.9883523,33.997747,711m/data=!3m1!1e3!4m18!1m8!3m7!1s0x14dfc568a7918259:0x96582c199eafaa40!2z0JDRmNCwINCd0LDQv9CwIDUzMzAsINCa0LjQv9Cw0YA!3b1!8m2!3d34.9887366!4d34.0002782!16zL20vMDRoZHg5!3m8!1s0x14dfc513650b8f37:0x2497459334310f21!5m2!4m1!1i2!8m2!3d34.9878031!4d34.0001916!16s%2Fg%2F1vx7bw2n?hl=sr&entry=ttu&g_ep=EgoyMDI1MDkwMy4wIKXMDSoASAFQAw%3D%3D",
+    "dates": "1 Maj, 2023 - 9 Maj, 2023",
+    "text": "Mig og Mathias' første rejse sammen. Vi havde en fantastisk uge på Cypern, hvor vi nød solen og hinandens selskab. Vi boede på et dejligt hotel midt i byen og udforskede de lokale restauranter og seværdigheder."
+  },
+  {
+    "id": 2,
+    "img": {
+      "src": "img/hamborg.png",
+      "alt": "Billede af Hamborg"
+    },
+    "title": "Hamborg",
+    "country": "Tyskland",
+    "googleMapsLink": "https://www.google.com/maps/place/Hamborg,+Tyskland/@53.5586622,9.7626735,40591m/data=!3m2!1e3!4b1!4m6!3m5!1s0x47b161837e1813b9:0x4263df27bd63aa0!8m2!3d53.5488282!4d9.9871703!16zL20vMDNocno?entry=ttu&g_ep=EgoyMDI1MDkwMy4wIKXMDSoASAFQAw%3D%3D",
+    "dates": "3 Juli, 2023 - 6 Juli, 2023",
+    "text": "Vi tog en lille smuttur til Hamborg i sommerferien. Vi fik set lidt af byen, og shoppet en del. Vi boede på et hyggeligt hotel lidt udenfor centrum, så der var ro til at slappe af efter en lang dag med sightseeing."
+  },
+  {
+    "id": 3,
+    "img": {
+      "src": "/img/norge.png",
+      "alt": "Billede af Norge"
+    },
+    "title": "Trysil",
+    "country": "Norge",
+    "googleMapsLink": "https://www.google.com/maps/place/Trysil,+Norge/@61.3551649,11.6433402,131033m/data=!3m2!1e3!4b1!4m6!3m5!1s0x46699a0c9b1a373d:0x73bea2a938e28d96!8m2!3d61.2373874!4d12.2892362!16zL20vMDE4NXZ4?entry=ttu&g_ep=EgoyMDI1MDkwMy4wIKXMDSoASAFQAw%3D%3D",
+    "dates": "26 December, 2023 - 30 December, 2023",
+    "text": "Jeg var med Mathias og min svigerfamilie på skiferie mellem jul og nytår. Det var lidt skræmmende at prøve at stå på ski for første gang, men det endte med at være ret sjovt."
+  },
+  {
+    "id": 4,
+    "img": {
+      "src": "/img/kreta.png",
+      "alt": "Billede af Kreta"
+    },
+    "title": "Agios Nikolaos",
+    "country": "Kreta",
+    "googleMapsLink": "https://www.google.com/maps/place/Kreta,+Grækenland/@35.2476151,24.2513069,223226m/data=!3m2!1e3!4b1!4m6!3m5!1s0x149afe2f827d98a1:0x100bd2ce2b9c630!8m2!3d35.240117!4d24.8092691!16s%2Fg%2F122zjww4?entry=ttu&g_ep=EgoyMDI1MDkwMy4wIKXMDSoASAFQAw%3D%3D",
+    "dates": "26 Juni, 2025 - 3 Juli, 2025",
+    "text": "Vi tog en tur til Kreta i sommeren 2025. Det var en dejlig uge med masser af sol og afslapning. Vi boede lidt udenfor Agios Nikolaos, så vi var meget på hotellet og ved poolen, hvilket også var dejligt og afslappende."
+  }
+]
