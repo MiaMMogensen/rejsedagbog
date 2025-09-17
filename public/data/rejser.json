@@ -14,7 +14,7 @@
   {
     "id": 2,
     "img": {
-      "src": "img/hamborg.png",
+      "src": "/img/hamborg.png",
       "alt": "Billede af Hamborg"
     },
     "title": "Hamborg",
